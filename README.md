@@ -1,1 +1,1 @@
-# Task-A java program 
+# Task-A javascript program 
